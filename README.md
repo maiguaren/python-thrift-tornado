@@ -1,4 +1,6 @@
 python-thrift-tornado
 =====================
 
-A project built on Happybase for HBase integration with Facebook Tornado
+A project built on Happybase for HBase integration with Facebook Tornado.
+
+This projects maintains a connector.
