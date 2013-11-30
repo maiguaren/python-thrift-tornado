@@ -1,0 +1,6 @@
+
+
+
+pip install python-hbase
+
+
